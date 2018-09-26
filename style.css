@@ -1,0 +1,9 @@
+.plyr--video {
+  border-radius: 10px 10px 0px 0px !important;
+  background: #000;
+  overflow: hidden;
+}
+  .container {
+    margin: 20px auto;
+    max-width: 500px;
+  }
