@@ -2,8 +2,20 @@
   border-radius: 10px 10px 0px 0px !important;
   background: #000;
   overflow: hidden;
+  
 }
   .container {
     margin: 20px auto;
     max-width: 500px;
   }
+  .plyr__control--overlaid {
+    color: #DDB35A !important;
+    background: rgb(255, 255, 255) !important;
+  }
+  .plyr__control:hover, .plyr--video .plyr__control{
+    color: #DDB35A !important;
+    background: rgb(255, 255, 255) !important;
+}
+.plyr--full-ui input[type=range] {
+  color: #DDB35A !important;
+}
